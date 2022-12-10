@@ -1,7 +1,7 @@
 Maquina de Turing (MT)
 Autor: Gabriel de Medeiros Ribeiro
 
-O programa irá ricever uma especificação de Maquina de Turing (MT) e uma palavra de entrada e verificar se essa palavra pertence ou não a linguagem descrita por essa maquina.
+O programa irá receber uma especificação de Maquina de Turing (MT) e uma palavra de entrada e verificar se essa palavra pertence ou não a linguagem descrita por essa maquina.
 
 Exemplo do arquivo teste1.json:
 
